@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshopts/screenshot1.jpg)
+![](./screenshots/screenshot1.jpg)
 
-![](./screenshopts/screenshot2.jpg)
+![](./screenshots/screenshot2.jpg)
 
-![](./screenshopts/screenshot3.jpg)
+![](./screenshots/screenshot3.jpg)
 
 ## My process
 
