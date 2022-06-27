@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshopts/screenshot1.jpg)
+![](./screenshots/screenshot1.png)
 
-![](./screenshopts/screenshot2.jpg)
+![](./screenshots/screenshot2.png)
 
-![](./screenshopts/screenshot3.jpg)
+![](./screenshots/screenshot3.png)
 
 ## My process
 
@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Xiaomin Guo](https://min-website-aislandmin.vercel.app/)
+- Website - [Xiaomin Guo](https://easybank-landing-page-aislandmin.vercel.app/)
