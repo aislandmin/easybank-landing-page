@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Link
 
-- URL: [Easybank landing page](https://your-solution-url.com)
+- URL: [Easybank landing page](https://easybank-landing-page-aislandmin.vercel.app/)
 
 ### Screenshots
 
@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Xiaomin Guo](https://easybank-landing-page-aislandmin.vercel.app/)
+- Website - [Xiaomin Guo](https://min-website-aislandmin.vercel.app/)
