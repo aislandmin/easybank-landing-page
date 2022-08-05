@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Link
 
-- URL: [Easybank landing page](https://easybank-landing-page-aislandmin.vercel.app/)
+- URL: [Easybank landing page](https://aislandmin.github.io/easybank-landing-page/)
 
 ### Screenshots
 
